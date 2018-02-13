@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.tmTheme",
+	"font_face": "Consolas",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"skin": "DA UI/Classic",
+	"theme": "DA.sublime-theme"
+}

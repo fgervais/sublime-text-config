@@ -1,0 +1,12 @@
+{
+	"snippets": {
+		"html": {
+			"abbreviations": {
+				"example": "<div class='example' title='Custom element example'>",
+			},
+			"snippets": {
+				"test": "for (var ${class} = 0; i < ${id}.length; ${class}++) {\n\t|}",
+			}
+		}
+	},
+}

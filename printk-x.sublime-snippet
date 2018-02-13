@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+printk("FG: %s: ${1} = 0x%x\n", __func__, ${1});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pk.x</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c</scope>
+</snippet>
